@@ -38,4 +38,46 @@ h2 {
   border-radius: 10px;
   padding: 1rem 2rem;
   text-align: center;
+}
+
+form {
+  width: 60%;
+  margin: 0 auto;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+}
+form input {
+  width: 80%;
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  border: 1px solid coral;
+  outline: none;
+  border-radius: 10px;
+  color: coral;
+}
+form button {
+  margin: 10px auto;
+  padding: 1rem 2rem;
+  background-color: lawngreen;
+  border: none;
+  border-radius: 10px;
+}
+
+ul {
+  font-family: sans-serif;
+  width: 50%;
+  margin: 0 auto;
+  list-style: none;
+  padding: 2rem;
+}
+ul li {
+  margin: 0.8em 0;
+  width: 100%;
+  font-size: 1.2rem;
+  background-color: #000;
+  color: #fff;
+  padding: 1rem 1.2rem;
+  border-radius: 10px;
 }/*# sourceMappingURL=main.css.map */
